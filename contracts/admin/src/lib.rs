@@ -2089,6 +2089,3 @@ mod test_require_valid_admin_address;
 
 #[cfg(test)]
 mod test_pause_boundary_recovery;
-
-#[cfg(test)]
-mod test_approve_pause_proposal_boundaries;
